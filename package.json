@@ -1,13 +1,16 @@
 {
-  "name": "react-tutorial",
+  "name": "mitchelldang",
   "version": "1.0.0",
-  "private": true,
+  "homepage": "https://mduw.github.io/testreactapp/",
+  "repository": {
+    "type": "git",
+    "url": "https://mduw.github.io/testreactapp/"
+  },
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "^2.1.1"
   },
-  "homepage": "https://mduw.github.io/react-tutorial",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
