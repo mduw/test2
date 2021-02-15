@@ -1,10 +1,10 @@
 {
   "name": "mitchelldang",
   "version": "1.0.0",
-  "homepage": "https://mduw.github.io/testreactapp/",
+  "homepage": "https://mduw.github.io/test2/",
   "repository": {
     "type": "git",
-    "url": "https://mduw.github.io/testreactapp/"
+    "url": "https://mduw.github.io/test2/"
   },
   "dependencies": {
     "react": "^16.4.1",
